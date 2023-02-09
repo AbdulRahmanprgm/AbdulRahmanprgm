@@ -1,11 +1,12 @@
 
 # About me
- I am studying B.tech(IT) in 
- university College of engineering,trichy
-  ~  🔭 I’m currently working on Web development
-  ~  🌱 I’m currently learning javaScript
-  ~  💬 Ask me about c,python,HTML and css
-  ~  😜 Favourite color: blue
+    ~  🔭 I’m currently working on Web development
+  
+    ~  🌱 I’m currently learning javaScript
+
+    ~  💬 Ask me about c,python,HTML and css
+
+    ~  😜 Favourite color: blue
 
 
 # Social media
