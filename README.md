@@ -1,14 +1,14 @@
 
 # About me
-    I am studying B.tech(IT) in university College of engineering,trichy
-     ~  🔭 I’m currently working on Web development
-     ~  🌱 I’m currently learning javaScript
-     ~  💬 Ask me about c,python,HTML and css
-     ~  😜 Favourite color: blue
+ I am studying B.tech(IT) in 
+ university College of engineering,trichy
+  ~  🔭 I’m currently working on Web development
+  ~  🌱 I’m currently learning javaScript
+  ~  💬 Ask me about c,python,HTML and css
+  ~  😜 Favourite color: blue
 
 
-
-# 🌐 Social media
+# Social media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abdulrahman.a_) 
 
 # MY KNOWLEDGE
