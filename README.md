@@ -7,8 +7,6 @@ width=500px; height=150px;>
   
     ~  🌱 I’m currently learning javaScript
 
-    ~  💬 Ask me about c,python,HTML and css
-
     ~  😜 Favourite color: blue
     
     ~  🧑‍💻 Little bit knowledge about ethical hacking
