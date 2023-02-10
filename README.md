@@ -1,5 +1,8 @@
+<img src="Picsart_23-02-10_00-41-36-923.jpg" align="center"
+width=500px; height=200px;>
 
-# About me
+# ABOUT ME
+   
     ~  🔭 I’m currently working on Web development
   
     ~  🌱 I’m currently learning javaScript
@@ -8,6 +11,7 @@
 
     ~  😜 Favourite color: blue
 
+<img src="IMG_20230210_004256.jpg" >
 
 # Social media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abdulrahman.a_) 
