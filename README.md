@@ -1,5 +1,5 @@
 <img src="Picsart_23-02-10_00-41-36-923.jpg" align="center"
-width=500px; height=200px;>
+width=500px; height=150px;>
 
 # ABOUT ME
    
