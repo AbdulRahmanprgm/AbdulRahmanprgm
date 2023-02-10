@@ -10,6 +10,8 @@ width=500px; height=150px;>
     ~  💬 Ask me about c,python,HTML and css
 
     ~  😜 Favourite color: blue
+    
+    ~  🧑‍💻 Little bit knowledge about ethical hacking
 
 <img src="IMG_20230210_004256.jpg" >
 
