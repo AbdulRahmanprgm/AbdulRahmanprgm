@@ -5,7 +5,7 @@ width=500px; height=150px;>
    
     ~  🔭 I’m currently working on Web development
   
-    ~  🌱 I’m currently learning javaScript
+    ~  🌱 I’m currently learning JavaScript
 
     ~  😜 Favourite color: blue
     
@@ -33,5 +33,4 @@ width=500px; height=150px;>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # DESIGN
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 
