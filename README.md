@@ -1,5 +1,5 @@
 <img src="Picsart_23-02-10_00-41-36-923.jpg" align="center"
-width=500px; height=150px;>
+width=500px; height=250px;>
 
 # ABOUT ME
    
@@ -17,7 +17,7 @@ width=500px; height=150px;>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abdulrahman.a_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdulrahman-a-7a4925265)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_abdul00_?t=fJ3cshQseJ3egOucRlEH6g&s=09)
-## 🧑‍💻 ⬇️ 🧑‍💻 :
+# My knowledge:
 # Prgramming language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
